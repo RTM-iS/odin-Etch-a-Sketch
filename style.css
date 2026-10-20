@@ -18,3 +18,12 @@
     border: 1px solid #ddd;
 }
 
+#btn1 {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+
